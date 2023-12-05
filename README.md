@@ -1,1 +1,1 @@
-# dbt-example-1
+# dbt-example
